@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 📫 How to reach me:
+
   Discord: sams331
 
 <!---
