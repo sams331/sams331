@@ -8,8 +8,8 @@ Currently, I don't make heavy/very useful things for public. Maybe I sometimes m
 # Contact
 ![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat&logo=discord): zxcrvbndm._
 
-
-More about me: visit [my site](https://sams331.github.io/)
+# More about me
+Visit [my site](https://sams331.github.io/)
 
 
 <!---
